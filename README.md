@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is a JH course rep.
+This is a JH course repo.
